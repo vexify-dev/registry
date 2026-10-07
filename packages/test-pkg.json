@@ -1,0 +1,27 @@
+{
+    "name": "test-pkg",
+    "description": "e2e test from mini-registry",
+    "dist-tags": {
+        "latest": "1.0.0"
+    },
+    "versions": {
+        "1.0.0": {
+            "name": "test-pkg",
+            "version": "1.0.0",
+            "description": "e2e test from mini-registry",
+            "license": "MIT",
+            "dist": {
+                "tarball": "https://raw.githubusercontent.com/vexify-dev/registry/main/tarballs/test-pkg/1.0.0.tgz",
+                "shasum": "752863554651dbf7a57b780de94caa00d0907cd4"
+            },
+            "_npmUser": {
+                "name": "tester"
+            }
+        }
+    },
+    "time": {
+        "created": "2026-10-07T06:18:19+00:00",
+        "1.0.0": "2026-10-07T06:18:19+00:00"
+    },
+    "_rev": "71f638462ee16068"
+}
